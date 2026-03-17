@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi I'm Ryan 🍵!
 
+CS student at University of Toronto and software dev. I like building unconventional projects, drinking matcha, and literature!
+
+**current goals...:** improve my rust skills, build a Haskell project, read 6 books.
+
+---
+
+**Links**
+
+[Portfolio](https://ryanchui2.github.io/portfolio/home.html)) · [LinkedIn](https://www.linkedin.com/in/ryanc-hui/)
 <!--
 **ryanchui2/ryanchui2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
